@@ -3,7 +3,7 @@ Minecraft datapack that makes it so the loot from vault can be picked up only by
 
 Tired of your items from vault being stolen by another player? This datapack makes it so the loot from vault can be picked up only by the player who opened it
 
-https://www.youtube-nocookie.com/embed/FoZ0TFUgj8g
+[Small video demonstration](https://youtu.be/FoZ0TFUgj8g)
 
 Works in multiplayer (there is no reason to use it in singleplayer lol, but works too).
 But if you set it up on your own computer (not on server), it will not work for host (he will be able to grab any items)
